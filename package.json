@@ -1,0 +1,15 @@
+{
+  "name": "theming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass Sass:css",
+    "sass:watch": "sass Sass:css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
